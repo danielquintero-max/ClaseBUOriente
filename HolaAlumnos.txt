@@ -1,1 +1,6 @@
-hdfhjkusdhfishdkfhnjksdhfkashfhnsñohdfiuahzjdliufghdhfioshofhnjkladhgfnlahdfgiohfsd
+Paso 1 Abrir Sourcetree
+Paso 2 Dar Fetch
+Paso 3 si después del fetch aparece algún numero en el botón de pull, darle pull
+Paso 4 Seleccionar archivos que quiero subir de la lista de Stage y darles Stage Selected
+Paso 5 Escribir de que se trata el commit
+Paso 6 presionar commit
