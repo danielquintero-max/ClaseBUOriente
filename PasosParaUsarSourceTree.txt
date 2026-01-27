@@ -4,3 +4,6 @@ Paso 3 si después del fetch aparece algún numero en el botón de pull, darle p
 Paso 4 Seleccionar archivos que quiero subir de la lista de Stage y darles Stage Selected
 Paso 5 Escribir de que se trata el commit
 Paso 6 presionar commit
+
+Esta es una pequeña prueba para ver si prestaron atencion a la clase del dia lunes y estan pendientes de los commits. 
+Si alguien de la clase logra agregar la palabra ¨Enterado¨ debajo de esta linea de texto, dare la proxima clase utilizando un casco medieval.
