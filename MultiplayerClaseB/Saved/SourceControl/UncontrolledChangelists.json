@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Superheroe.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Deku.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Flash.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Ironman.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_CapedBaldy.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Rival.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/Profesor/Clase4/BP_Fan.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/SF/RTBIX6AIIPWXH5CH1M5VOD.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U1/ZTZX3J4ISY2S4C021CITZB.uasset",
+				"C:/Users/Alumno UO/Documents/ClaseBUOriente/MultiplayerClaseB/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JZ/TP81TSGT78GN1G0LFXO40Y.uasset"
+			]
+		}
+	]
+}
