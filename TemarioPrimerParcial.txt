@@ -22,6 +22,7 @@ Diferencias entre Eventos y Funciones de Unreal
 Comunicacion directa entre actores de Unreal
 Collision y Overlaps
 Nodos de control de flujo de unreal: Branch, Switch, For Each, Flip Flip, Gate, MultiGate
+Inputs
 Nodos importantes de Unreal: 
 -LineTrace by Channel, For Objects
 -MultiLineTrace
