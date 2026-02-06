@@ -1,0 +1,40 @@
+Temario Primer Parcial
+
+Definicion de Variable y tipos de Variables
+Definicion de funcion y tipos de funciones
+Definicion de clase
+Definicion de herencia
+Definicion de polimorfismo
+Definicion de Casteo
+Definicion de Interface
+Definicion de Delegate
+Ciclo de vida de clases en Unreal
+Clases Principales de un juego de Unreal:
+-Actor
+-Game Mode
+-Game Instance
+-Game State
+-Player State
+-Player Controller
+-Pawn
+-Character
+Diferencias entre Eventos y Funciones de Unreal
+Comunicacion directa entre actores de Unreal
+Collision y Overlaps
+Nodos de control de flujo de unreal: Branch, Switch, For Each, Flip Flip, Gate, MultiGate
+Nodos importantes de Unreal: 
+-LineTrace by Channel, For Objects
+-MultiLineTrace
+-Delay
+-Timeline
+-IsValid
+-DestroyActor
+-SpawnActor
+-Set Simulate Physics
+-Get Hit Result Under Cursor
+-Sphere Overlap Actors
+-Get All Actors of Class
+-Set Collision Enabled
+-Set Collision Response to Channel
+-Get Collision Object Type
+-Get Collision Response to Channel
