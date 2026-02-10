@@ -21,9 +21,10 @@ Clases Principales de un juego de Unreal:
 Diferencias entre Eventos y Funciones de Unreal
 Comunicacion directa entre actores de Unreal
 Collision y Overlaps
-Nodos de control de flujo de unreal: Branch, Switch, For Each, Flip Flip, Gate, MultiGate
+Nodos de control de flujo de unreal: Branch, Switch, For Each, Flip Flip, Gate, MultiGate, Sequence, While
 Inputs
-Nodos importantes de Unreal: 
+Nodos importantes de Unreal:
+-Timers
 -LineTrace by Channel, For Objects
 -MultiLineTrace
 -Delay
