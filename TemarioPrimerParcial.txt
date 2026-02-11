@@ -8,21 +8,42 @@ Definicion de polimorfismo
 Definicion de Casteo
 Definicion de Interface
 Definicion de Delegate
+
+Propiedades de Variables
+Arrays
+Enums
+Actor References
+Custom Events
+
+Level Blueprint
+
+Clases Principales de un juego de Unreal:Actor,Game Mode,Game Instance,Game State,Player State,Player Controller,Pawn,Character
+
+World Settings
+
 Ciclo de vida de clases en Unreal
-Clases Principales de un juego de Unreal:
--Actor
--Game Mode
--Game Instance
--Game State
--Player State
--Player Controller
--Pawn
--Character
-Diferencias entre Eventos y Funciones de Unreal
-Comunicacion directa entre actores de Unreal
-Collision y Overlaps
+
 Nodos de control de flujo de unreal: Branch, Switch, For Each, Flip Flip, Gate, MultiGate, Sequence, While
-Inputs
+
+Diferencias entre Eventos y Funciones de Unreal
+
+Comunicacion directa entre actores de Unreal
+
+Collision Channels
+Collision y Overlaps
+Set Collision Enabled
+Set Collision Response to Channel
+Get Collision Object Type
+Get Collision Response to Channel
+
+
+Transforms (Location, Rotation, Vectors, Direction, Distance, Global vs Local)
+
+
+Inputs: Input Actions, Mapping Contexts, Input Events
+PseudoInputs: Direct Keys
+Mouse Cursor
+
 Nodos importantes de Unreal:
 -Timers
 -LineTrace by Channel, For Objects
@@ -36,7 +57,3 @@ Nodos importantes de Unreal:
 -Get Hit Result Under Cursor
 -Sphere Overlap Actors
 -Get All Actors of Class
--Set Collision Enabled
--Set Collision Response to Channel
--Get Collision Object Type
--Get Collision Response to Channel
