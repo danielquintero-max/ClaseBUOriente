@@ -45,6 +45,7 @@ PseudoInputs: Direct Keys
 Mouse Cursor
 
 Nodos importantes de Unreal:
+-AddMovementInput
 -Timers
 -LineTrace by Channel, For Objects
 -MultiLineTrace
