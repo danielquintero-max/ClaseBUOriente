@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerClaseB.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\Fenrir\Documents\ClaseBUOriente\MultiplayerClaseB\Intermediate\Build\Win64\x64\MultiplayerClaseBEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Users\Fenrir\Documents\ClaseBUOriente\MultiplayerClaseB\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerClaseB\MultiplayerClaseB.cpp.obj"
+"D:\Users\Fenrir\Documents\ClaseBUOriente\MultiplayerClaseB\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerClaseB\MyClass.cpp.obj"
+"D:\Users\Fenrir\Documents\ClaseBUOriente\MultiplayerClaseB\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerClaseB\Default.rc2.res"
+/OUT:"D:\Users\Fenrir\Documents\ClaseBUOriente\MultiplayerClaseB\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerClaseB\UnrealEditor-MultiplayerClaseB.lib"

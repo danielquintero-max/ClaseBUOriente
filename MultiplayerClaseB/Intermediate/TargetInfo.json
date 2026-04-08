@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerClaseB",
+			"Path": "..\\Source\\MultiplayerClaseB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerClaseBEditor",
+			"Path": "..\\Source\\MultiplayerClaseBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

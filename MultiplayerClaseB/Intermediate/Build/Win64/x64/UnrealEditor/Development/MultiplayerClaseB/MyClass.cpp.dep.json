@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\fenrir\\documents\\clasebuoriente\\multiplayerclaseb\\source\\multiplayerclaseb\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\fenrir\\documents\\clasebuoriente\\multiplayerclaseb\\intermediate\\build\\win64\\x64\\multiplayerclasebeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\users\\fenrir\\documents\\clasebuoriente\\multiplayerclaseb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerclaseb\\definitions.multiplayerclaseb.h",
+            "d:\\users\\fenrir\\documents\\clasebuoriente\\multiplayerclaseb\\source\\multiplayerclaseb\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

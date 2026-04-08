@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Intermediate\\Source\\MultiplayerClaseB.Build.cs",
-		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Intermediate\\Source\\MultiplayerClaseB.Target.cs",
-		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Intermediate\\Source\\MultiplayerClaseBClient.Target.cs",
-		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Intermediate\\Source\\MultiplayerClaseBEditor.Target.cs",
-		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Intermediate\\Source\\MultiplayerClaseBServer.Target.cs"
+		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Source\\MultiplayerClaseB\\MultiplayerClaseB.Build.cs",
+		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Source\\MultiplayerClaseB.Target.cs",
+		"D:\\Users\\Fenrir\\Documents\\ClaseBUOriente\\MultiplayerClaseB\\Source\\MultiplayerClaseBEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
